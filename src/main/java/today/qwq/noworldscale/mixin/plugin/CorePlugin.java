@@ -1,7 +1,7 @@
 /*
- * This file is part of Ignite, licensed under the MIT License (MIT).
+ * This file is part of no-world-scale, licensed under the MIT License (MIT).
  *
- * Copyright (c) vectrix.space <https://vectrix.space/>
+ * Copyright (c) qwq.today <https://qwq.today/>
  * Copyright (c) contributors
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -22,15 +22,16 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
  * THE SOFTWARE.
  */
-package com.example.mixin.plugins;
+package today.qwq.noworldscale.mixin.plugin;
 
-import java.util.List;
-import java.util.Set;
 import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 import org.objectweb.asm.tree.ClassNode;
 import org.spongepowered.asm.mixin.extensibility.IMixinConfigPlugin;
 import org.spongepowered.asm.mixin.extensibility.IMixinInfo;
+
+import java.util.List;
+import java.util.Set;
 
 public final class CorePlugin implements IMixinConfigPlugin {
   @Override

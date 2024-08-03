@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "minVersion": "0.8.5",
+  "package": "today.qwq.noworldscale.mixin.core",
+  "plugin": "today.qwq.noworldscale.mixin.plugin.CorePlugin",
+  "target": "@env(DEFAULT)",
+  "compatibilityLevel": "JAVA_18",
+  "server": [
+    "ChangeWorldScale"
+  ]
+}

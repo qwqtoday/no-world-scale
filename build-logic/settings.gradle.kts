@@ -1,4 +1,4 @@
-rootProject.name = "ignite-template-build-logic"
+rootProject.name = "no-world-scale-build-logic"
 
 dependencyResolutionManagement {
   repositories {

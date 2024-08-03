@@ -1,5 +1,4 @@
-Ignite Mod Template [![Discord](https://img.shields.io/discord/819522977586348052?style=for-the-badge)](https://discord.gg/rYpaxPFQrj)
+no-world-scale
 ===================
+This mod will remove the world scale between the overworld and nether in your Minecraft server.
 
-A template for creating an [Ignite](https://github.com/vectrix-space/ignite) 
-mod for [Paper](https://papermc.io/) 1.20.4.
