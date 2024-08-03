@@ -4,7 +4,7 @@
   "package": "today.qwq.noworldscale.mixin.core",
   "plugin": "today.qwq.noworldscale.mixin.plugin.CorePlugin",
   "target": "@env(DEFAULT)",
-  "compatibilityLevel": "JAVA_18",
+  "compatibilityLevel": "JAVA_17",
   "server": [
     "ChangeWorldScale"
   ]
